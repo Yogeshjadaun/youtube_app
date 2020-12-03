@@ -47,6 +47,7 @@ Dashboard api:
 - Using Celery for backgound tasks
 - It is updating database by response from youtube data api.
 - Taking new keys if the key is expired or its quota is exhausted.
+- It is in youtube_engine/tasks.py
 - In case if you want to change:
     - Search keyword is in youtubeapp/settings
     - Max Result (Youtube result limit) is in youtubeapp/settings
