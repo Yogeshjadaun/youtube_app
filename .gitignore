@@ -1,0 +1,9 @@
+**/migrations/**
+!**/migrations
+!**/migrations/__init__.py
+__pycache__/
+*.py[cod]
+*$py.class
+celerybeat-schedule
+.idea
+__pycache__/*
